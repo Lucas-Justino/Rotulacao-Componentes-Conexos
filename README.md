@@ -42,7 +42,7 @@ Para executar o programa de contagem de componentes conexos em imagens, siga os 
    **Exemplo:**
 
    ```
-   ./rotula beans.pgm
+   ./rotula beans1.pgm
    ```
 
    Neste exemplo, o programa será executado utilizando a imagem `beans.pgm` como entrada, contando o número de componentes conexos das formas pretas presentes na imagem.
